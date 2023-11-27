@@ -1,16 +1,13 @@
 # Методы оптимизации
-[[Л] Нурминского](https://raw.githubusercontent.com/motattack/mcs_23/main/mo/optimization.pdf)
+[[Л] Нурминский](https://raw.githubusercontent.com/motattack/mcs_23/main/mo/optimization.pdf)
 <<
 [[П] Аббасова](https://raw.githubusercontent.com/motattack/mcs_23/main/mo/MO1.pdf)
-
-[Карманов](https://raw.githubusercontent.com/motattack/mcs_23/main/mo/312617.pdf)
-
-[Задачник Кривко](https://raw.githubusercontent.com/motattack/mcs_23/main/mo/1384-21_u.pdf)
-
-[Пантелеев](https://raw.githubusercontent.com/motattack/mcs_23/main/mo/Metody_optimizatsii_v_primerakh_i_zadachakh_by_Panteleev_A_V_Letova_T_A_z-lib_org-compressed.pdf)
-
-## Справочные
-[Описание работы методов (Аттетков)](https://raw.githubusercontent.com/motattack/mcs_23/main/mo/Attetkov_Kanatnikov_Tverskaya_Metodicheskie_ukazania.pdf)
+<<
+[[З] Кривко](https://raw.githubusercontent.com/motattack/mcs_23/main/mo/1384-21_u.pdf)
+<<
+[[Ш] Аттетков)](https://raw.githubusercontent.com/motattack/mcs_23/main/mo/Attetkov_Kanatnikov_Tverskaya_Metodicheskie_ukazania.pdf)
+<<
+[[$]Карманов](https://raw.githubusercontent.com/motattack/mcs_23/main/mo/312617.pdf)
 
 ## Вопросы
   1.  [*](https://raw.githubusercontent.com/motattack/mcs_23/main/mo/lec/1.png)
@@ -51,11 +48,12 @@
   24.	[*](https://raw.githubusercontent.com/motattack/mcs_23/main/mo/lec/13.png)
       Теорема о связи матричной игры с линейной оптимизацией
 
-## Обозначения
-"*" - ссылка на конспект лекции
-
-"?" - нет доказательства/определения
-
-"[Л]" - лекции
-
-"[П]" - пособие
+## 
+| Символ | Значение |
+|---|---|
+| [*] | ссылка на конспект лекции |
+| (?) |  нет доказательства/определения |
+| [Л] | лекции  |
+| [П] | пособие |
+| [З] | задачник |
+| [Ш] | пошаговое описание методов |
