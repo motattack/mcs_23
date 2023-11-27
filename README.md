@@ -13,3 +13,5 @@
 [Лаба 3 Холецкий](https://github.com/motattack/mcs_23/blob/main/computational/lab3.py)
 
 [Лаба 4 QR Хаусхолдер](https://github.com/motattack/mcs_23/blob/main/computational/lab4.py)
+
+## [МО](https://github.com/motattack/mcs_23/blob/main/mo/)
