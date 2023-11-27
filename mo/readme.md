@@ -5,6 +5,8 @@
 
 [Пособие Аббасова](https://raw.githubusercontent.com/motattack/mcs_23/main/mo/MO1.pdf)
 
+[Карманов](https://raw.githubusercontent.com/motattack/mcs_23/main/mo/312617.pdf)
+
 [Задачник Кривко](https://raw.githubusercontent.com/motattack/mcs_23/main/mo/1384-21_u.pdf)
 
 [Пантелеев](https://raw.githubusercontent.com/motattack/mcs_23/main/mo/Metody_optimizatsii_v_primerakh_i_zadachakh_by_Panteleev_A_V_Letova_T_A_z-lib_org-compressed.pdf)
