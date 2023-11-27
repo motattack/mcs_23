@@ -7,7 +7,7 @@
 <<
 [[Ш] Аттетков)](https://raw.githubusercontent.com/motattack/mcs_23/main/mo/Attetkov_Kanatnikov_Tverskaya_Metodicheskie_ukazania.pdf)
 <<
-[[$]Карманов](https://raw.githubusercontent.com/motattack/mcs_23/main/mo/312617.pdf)
+[Карманов](https://raw.githubusercontent.com/motattack/mcs_23/main/mo/312617.pdf)
 
 ## Вопросы
   1.  [*](https://raw.githubusercontent.com/motattack/mcs_23/main/mo/lec/1.png)
