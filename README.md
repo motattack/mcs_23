@@ -36,3 +36,5 @@
 
 
 ## Диффуры [Рейтинг](https://docs.google.com/spreadsheets/d/1KmEtA7ARv2Giq68jhrRyx5V2YWAdmz2UM6Y-T8gLjUM/edit?usp=sharing) [Задачник](https://raw.githubusercontent.com/motattack/mcs_23/main/dydx/AJ_OPDE_2-3Sem.pdf)
+
+## Теория вероятности [Методичка Иванова](https://raw.githubusercontent.com/motattack/mcs_23/main/final.pdf)
