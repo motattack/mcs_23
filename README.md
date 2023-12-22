@@ -1,4 +1,8 @@
 # 🏴 mcs_23 
+
+## Диффуры [Рейтинг](https://docs.google.com/spreadsheets/d/1KmEtA7ARv2Giq68jhrRyx5V2YWAdmz2UM6Y-T8gLjUM/edit?usp=sharing) [Задачник](https://raw.githubusercontent.com/motattack/mcs_23/main/dydx/AJ_OPDE_2-3Sem.pdf)
+[*](https://raw.githubusercontent.com/motattack/mcs_23/main/dydx/2_3.pdf) Разбор задачи 3 из 2 варианта Демо КР3 
+
 ## Методы оптимизации
 [[Л] Нурминский](https://raw.githubusercontent.com/motattack/mcs_23/main/mo/optimization.pdf)
 <<
@@ -33,8 +37,5 @@
 | [П] | пособие |
 | [З] | задачник |
 | [Ш] | пошаговое описание методов |
-
-
-## Диффуры [Рейтинг](https://docs.google.com/spreadsheets/d/1KmEtA7ARv2Giq68jhrRyx5V2YWAdmz2UM6Y-T8gLjUM/edit?usp=sharing) [Задачник](https://raw.githubusercontent.com/motattack/mcs_23/main/dydx/AJ_OPDE_2-3Sem.pdf)
 
 ## Теория вероятности [Методичка Иванова](https://raw.githubusercontent.com/motattack/mcs_23/main/final.pdf)
